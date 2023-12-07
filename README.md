@@ -34,18 +34,21 @@ Make sure you have Python installed on your machine.
    ```bash
    python password_gen.py
 
+### Contributing
+
+If you'd like to contribute to the project, feel free to fork the repository and submit pull requests.
 
 ### Customization
 
 You can customize the password length by modifying the password_length variable in the script.
-   Example:
-      ```bash
-         # Change the default password length to 16
-         password_length = 16
-         generated_password = generate_password(password_length)
+Example:
+   ```bash
+      # Change the default password length to 16
+      password_length = 16
+      generated_password = generate_password(password_length)
 
 
-### Contributing
 
-If you'd like to contribute to the project, feel free to fork the repository and submit pull requests.
+
+
 
