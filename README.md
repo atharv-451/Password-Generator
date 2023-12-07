@@ -46,9 +46,3 @@ Example:
       # Change the default password length to 16
       password_length = 16
       generated_password = generate_password(password_length)
-
-
-
-
-
-
